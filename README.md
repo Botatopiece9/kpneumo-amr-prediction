@@ -133,4 +133,4 @@ Python (pandas, NumPy, scikit-learn, matplotlib, requests), NCBI AMRFinderPlus v
 
 ## Author
 
-Alaa Hamid, computational biologist. [Add your LinkedIn or contact link here]
+Alaa Hamid, computational biologist. www.linkedin.com/in/alaa-hamid-33a820218
