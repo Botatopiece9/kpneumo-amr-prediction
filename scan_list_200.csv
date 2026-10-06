@@ -1,0 +1,201 @@
+genome_id,genome_name,label,checkm_contamination,mlst,contigs,genome_quality,genome_length,checkm_completeness
+573.14212,Klebsiella pneumoniae KPN526ec,Resistant,0.0,MLST.klebsiella.307,87,Good,5419006,100.0
+573.21765,Klebsiella pneumoniae strain EuSCAPE_IT234,Resistant,0.0,MLST.klebsiella.512,139,Good,5617077,100.0
+573.14819,Klebsiella pneumoniae strain 64,Resistant,0.3,MLST.klebsiella.512,134,Good,5720512,100.0
+573.13171,Klebsiella pneumoniae KPN1178ec,Susceptible,0.0,MLST.klebsiella.2975,66,Good,5352618,100.0
+573.13326,Klebsiella pneumoniae KPN1372ec,Susceptible,0.3,MLST.klebsiella.307,135,Good,5730744,100.0
+573.66886,Klebsiella pneumoniae KP_NORM_BLD_2011_74838,Susceptible,0.0,MLST.klebsiella.110,97,Good,5421624,100.0
+573.31625,Klebsiella pneumoniae strain KP-MO-2,Resistant,0.0,MLST.klebsiella.512,180,Good,5803309,99.78
+573.67344,Klebsiella pneumoniae 111864,Susceptible,0.0,MLST.klebsiella.997,37,Good,5179375,100.0
+573.66753,Klebsiella pneumoniae KP_NORM_BLD_12882,Susceptible,0.2,MLST.klebsiella.26,109,Good,5357157,100.0
+573.13400,Klebsiella pneumoniae KPN1460ec,Resistant,0.0,MLST.klebsiella.258,156,Good,5538694,100.0
+573.66277,Klebsiella pneumoniae 26975_4#28,Resistant,0.1,MLST.klebsiella.11,99,Good,5800611,100.0
+573.66926,Klebsiella pneumoniae KP_NORM_BLD_2014_104308,Susceptible,0.0,MLST.klebsiella.405,75,Good,5715819,100.0
+573.18476,Klebsiella pneumoniae strain CCUG 70742,Susceptible,0.3,MLST.klebsiella.147,5,Good,5391141,100.0
+573.20893,Klebsiella pneumoniae strain EuSCAPE_RS027,Resistant,0.0,MLST.klebsiella.101,149,Good,5837784,100.0
+573.26077,Klebsiella pneumoniae strain 5012STDY7312718,Susceptible,0.0,MLST.klebsiella.294,28,Good,5389747,99.78
+573.21358,Klebsiella pneumoniae strain EuSCAPE_FR020,Susceptible,0.0,MLST.klebsiella.37,60,Good,5409426,100.0
+573.21668,Klebsiella pneumoniae strain EuSCAPE_IL059,Resistant,0.0,MLST.klebsiella.512,85,Good,5607282,100.0
+573.66745,Klebsiella pneumoniae KP_NORM_BLD_117583,Susceptible,0.0,MLST.klebsiella.461,50,Good,5518194,100.0
+573.66445,Klebsiella pneumoniae 27261_7#140,Resistant,0.0,MLST.klebsiella.16,63,Good,5507533,100.0
+573.13947,Klebsiella pneumoniae KPN2155ec,Resistant,0.0,MLST.klebsiella.307,114,Good,5462580,100.0
+573.13844,Klebsiella pneumoniae KPN2013ec,Susceptible,0.0,MLST.klebsiella.17,86,Good,5471249,100.0
+573.21875,Klebsiella pneumoniae strain EuSCAPE_IT404,Resistant,0.3,MLST.klebsiella.512,84,Good,5504118,99.7
+573.67045,Klebsiella pneumoniae KP_NORM_BLD_61898,Susceptible,0.0,MLST.klebsiella.4305,53,Good,5165987,100.0
+573.13389,Klebsiella pneumoniae KPN1448ec,Resistant,0.3,MLST.klebsiella.15,182,Good,5739725,100.0
+573.14768,Klebsiella pneumoniae strain 67,Resistant,0.0,MLST.klebsiella.307,124,Good,5766283,100.0
+573.20685,Klebsiella pneumoniae strain EuSCAPE_UK070,Resistant,1.0,MLST.klebsiella.13,98,Good,5510121,99.7
+573.67242,Klebsiella pneumoniae ERR7221236,Resistant,0.4,MLST.klebsiella.3517,151,Good,5903539,100.0
+573.29867,Klebsiella pneumoniae strain Kpngiani7132557,Resistant,0.22,MLST.klebsiella.512,105,Good,5746555,99.78
+573.21035,Klebsiella pneumoniae strain EuSCAPE_BE018,Susceptible,0.3,MLST.klebsiella.405,71,Good,5727523,100.0
+573.66622,Klebsiella pneumoniae KP_NORM_BLD_113773,Susceptible,0.1,MLST.klebsiella.3067,96,Good,5536819,100.0
+573.66253,Klebsiella pneumoniae 26968_6#41,Resistant,0.0,MLST.klebsiella.656,85,Good,5506005,100.0
+573.23218,Klebsiella pneumoniae strain KP_310,Resistant,0.11,MLST.klebsiella.3741,85,Good,5705920,99.78
+573.46854,Klebsiella pneumoniae KP-25PA,Resistant,0.0,MLST.klebsiella.147,79,Good,5805652,99.78
+573.13516,Klebsiella pneumoniae KPN1592ec,Resistant,0.0,MLST.klebsiella.307,80,Good,5372238,100.0
+573.14325,Klebsiella pneumoniae KPN696ec,Susceptible,0.0,MLST.klebsiella.307,106,Good,5434549,100.0
+573.20726,Klebsiella pneumoniae strain EuSCAPE_RS038,Susceptible,0.3,MLST.klebsiella.101,177,Good,5665440,100.0
+573.21355,Klebsiella pneumoniae strain EuSCAPE_FR019,Susceptible,0.3,MLST.klebsiella.3147,119,Good,5425011,100.0
+573.13891,Klebsiella pneumoniae KPN2067ec,Susceptible,0.3,MLST.klebsiella.37,67,Good,5450766,100.0
+573.26239,Klebsiella pneumoniae strain 5012STDY7626490,Susceptible,0.0,MLST.klebsiella.2941,51,Good,5749832,99.78
+573.29879,Klebsiella pneumoniae strain Kpngiani7132575,Resistant,0.0,MLST.klebsiella.395,78,Good,5930800,99.78
+573.66435,Klebsiella pneumoniae 27097_7#77,Resistant,0.0,MLST.klebsiella.147,68,Good,5576281,99.9
+573.21974,Klebsiella pneumoniae strain EuSCAPE_ES102,Susceptible,0.3,MLST.klebsiella.405,65,Good,5699681,100.0
+573.29877,Klebsiella pneumoniae strain Kpngiani7132561,Resistant,0.22,MLST.klebsiella.512,160,Good,5844114,99.78
+573.20867,Klebsiella pneumoniae strain EuSCAPE_RO115,Resistant,0.0,MLST.klebsiella.101,110,Good,5755910,100.0
+573.66176,Klebsiella pneumoniae KP_NORM_BLD_2014_101814,Susceptible,0.0,MLST.klebsiella.307,65,Good,5421812,100.0
+573.26235,Klebsiella pneumoniae strain 5012STDY7312695,Susceptible,0.0,MLST.klebsiella.323,51,Good,5545354,99.78
+573.66351,Klebsiella pneumoniae 26994_7#32,Resistant,0.0,MLST.klebsiella.16,84,Good,5648316,100.0
+573.13201,Klebsiella pneumoniae KPN1210ec,Resistant,0.0,MLST.klebsiella.258,143,Good,5556280,100.0
+573.26111,Klebsiella pneumoniae strain 5012STDY7312576,Susceptible,0.0,MLST.klebsiella.1779,143,Good,5376987,99.78
+573.46408,Klebsiella pneumoniae CX71,Resistant,0.0,MLST.klebsiella.11,164,Good,5561370,99.78
+573.13422,Klebsiella pneumoniae KPN1485ec,Susceptible,0.7,MLST.klebsiella.661,172,Good,5557211,100.0
+573.66583,Klebsiella pneumoniae KP_NORM_BLD_110766,Susceptible,1.3,MLST.Klebsiella_pneumoniae.1114,259,Good,5509156,99.9
+573.13143,Klebsiella pneumoniae KPN1145ec,Resistant,0.0,MLST.klebsiella.37,132,Good,5779268,100.0
+573.21899,Klebsiella pneumoniae strain EuSCAPE_IT321,Susceptible,0.7,MLST.klebsiella.881,41,Good,5490025,100.0
+573.22034,Klebsiella pneumoniae strain EuSCAPE_ES271,Susceptible,0.3,MLST.klebsiella.405,70,Good,5638849,100.0
+573.46365,Klebsiella pneumoniae CX27,Resistant,0.0,MLST.klebsiella.11,161,Good,5511920,99.78
+573.15509,Klebsiella pneumoniae strain 10356_5#86,Susceptible,0.3,MLST.klebsiella.25,87,Good,5596533,100.0
+573.24451,Klebsiella pneumoniae strain MUGSI_94,Resistant,0.0,MLST.klebsiella.258,128,Good,5681148,99.78
+573.67228,Klebsiella pneumoniae ERR7221214,Susceptible,0.2,MLST.klebsiella.133,76,Good,5614528,100.0
+573.21941,Klebsiella pneumoniae strain EuSCAPE_ES055,Resistant,0.0,MLST.klebsiella.15,109,Good,5650574,100.0
+573.21554,Klebsiella pneumoniae strain EuSCAPE_DE039,Susceptible,0.0,MLST.klebsiella.17,44,Good,5284673,100.0
+573.20531,Klebsiella pneumoniae strain EuSCAPE_GR135,Resistant,0.3,MLST.klebsiella.11,84,Good,5609974,100.0
+573.29882,Klebsiella pneumoniae strain Kpngiani7132587,Resistant,0.0,MLST.klebsiella.307,99,Good,5598512,99.78
+573.13513,Klebsiella pneumoniae KPN1588ec,Resistant,0.0,MLST.klebsiella.307,87,Good,5384167,100.0
+573.5644,Klebsiella pneumoniae strain 5_GR_13,Resistant,0.0,MLST.klebsiella.383,138,Good,5889874,100.0
+573.66713,Klebsiella pneumoniae KP_NORM_BLD_116361,Susceptible,0.3,MLST.klebsiella.4284,103,Good,5622705,100.0
+573.20603,Klebsiella pneumoniae strain EuSCAPE_GR089,Resistant,0.1,MLST.klebsiella.258,135,Good,5679805,100.0
+573.13228,Klebsiella pneumoniae KPN1248ec,Susceptible,0.0,MLST.klebsiella.258,141,Good,5394446,100.0
+573.66111,Klebsiella pneumoniae ERR1813607,Resistant,0.0,MLST.klebsiella.512,116,Good,5583463,100.0
+573.66660,Klebsiella pneumoniae KP_NORM_BLD_115332,Susceptible,0.0,MLST.klebsiella.37,71,Good,5241020,100.0
+573.13434,Klebsiella pneumoniae KPN1497ec,Resistant,0.3,MLST.klebsiella.307,148,Good,5446053,100.0
+573.67152,Klebsiella pneumoniae KP_NORM_URN_2014_100419,Susceptible,0.0,MLST.klebsiella.2947,62,Good,5499504,100.0
+573.26283,Klebsiella pneumoniae strain 5012STDY7626402,Susceptible,0.0,MLST.klebsiella.846,38,Good,5384675,99.78
+573.9724,Klebsiella pneumoniae strain AR_0098,Resistant,0.0,MLST.klebsiella.258,5,Good,5708390,100.0
+573.21223,Klebsiella pneumoniae strain EuSCAPE_CZ010,Susceptible,0.1,MLST.klebsiella.14,112,Good,5794128,100.0
+573.14489,Klebsiella pneumoniae KPN915ec,Susceptible,0.0,MLST.klebsiella.307,69,Good,5504580,100.0
+573.66408,Klebsiella pneumoniae 26994_8#159,Resistant,0.0,MLST.klebsiella.656,69,Good,5499549,100.0
+573.66530,Klebsiella pneumoniae 27322_4#141,Susceptible,0.0,MLST.klebsiella.656,98,Good,5491949,100.0
+573.67331,Klebsiella pneumoniae ERR7221343,Susceptible,0.2,MLST.klebsiella.23,63,Good,5825641,100.0
+573.13435,Klebsiella pneumoniae KPN1498ec,Susceptible,0.0,MLST.klebsiella.258,161,Good,5390962,100.0
+573.13136,Klebsiella pneumoniae KPN1135ec,Resistant,0.0,MLST.klebsiella.307,101,Good,5493972,100.0
+573.21576,Klebsiella pneumoniae strain EuSCAPE_DE076,Resistant,0.7,MLST.klebsiella.36,49,Good,5498743,100.0
+573.67354,Klebsiella pneumoniae 110036,Resistant,0.2,MLST.klebsiella.101,101,Good,5658157,100.0
+573.67020,Klebsiella pneumoniae KP_NORM_BLD_61059,Susceptible,0.3,MLST.klebsiella.4383,128,Good,5552457,100.0
+573.21370,Klebsiella pneumoniae strain EuSCAPE_FR051,Susceptible,0.0,MLST.klebsiella.37,39,Good,5237042,100.0
+573.13503,Klebsiella pneumoniae KPN1577ec,Resistant,0.0,MLST.klebsiella.258,139,Good,5552653,100.0
+573.15607,Klebsiella pneumoniae strain KSB1_7I,Susceptible,0.0,,70,Good,5619233,100.0
+573.66384,Klebsiella pneumoniae 26994_8#19,Resistant,0.0,MLST.klebsiella.16,80,Good,5655037,100.0
+573.21292,Klebsiella pneumoniae strain EuSCAPE_TR272,Susceptible,0.0,MLST.klebsiella.882,53,Good,5515725,100.0
+573.21366,Klebsiella pneumoniae strain EuSCAPE_AT014,Resistant,0.0,MLST.klebsiella.512,133,Good,5626209,100.0
+573.46411,Klebsiella pneumoniae CX58,Resistant,0.0,MLST.klebsiella.34,88,Good,5208231,99.67
+573.66790,Klebsiella pneumoniae KP_NORM_BLD_1347,Susceptible,0.2,MLST.klebsiella.4228,57,Good,5339576,100.0
+573.13828,Klebsiella pneumoniae KPN1997ec,Susceptible,0.3,MLST.klebsiella.15,111,Good,5754531,100.0
+573.24261,Klebsiella pneumoniae strain 20,Resistant,0.22,MLST.klebsiella.43,200,Good,5587957,99.11
+573.21140,Klebsiella pneumoniae strain EuSCAPE_TR002,Resistant,0.0,MLST.klebsiella.14,143,Good,5747252,100.0
+573.66083,Klebsiella pneumoniae JBEBAAD-19-0010,Susceptible,0.0,MLST.klebsiella.45,83,Good,5406248,100.0
+573.13948,Klebsiella pneumoniae KPN2156ec,Susceptible,0.3,MLST.klebsiella.258,137,Good,5775110,100.0
+573.29958,Klebsiella pneumoniae strain Kpngiani7132624,Resistant,0.0,MLST.klebsiella.3499,116,Good,5744090,99.78
+573.7216,Klebsiella pneumoniae strain KpN03,Resistant,2.7,MLST.klebsiella.278,219,Good,5628465,100.0
+573.15446,Klebsiella pneumoniae strain 10315_6#28,Susceptible,0.0,MLST.klebsiella.15,68,Good,5464373,100.0
+573.20739,Klebsiella pneumoniae strain EuSCAPE_RS102,Resistant,0.3,MLST.klebsiella.437,85,Good,5500283,100.0
+573.14492,Klebsiella pneumoniae KPN919ec,Resistant,0.3,MLST.klebsiella.307,93,Good,5481993,100.0
+573.13060,Klebsiella pneumoniae KPN1038ec,Susceptible,0.8,MLST.klebsiella.307,139,Good,5576002,100.0
+573.21039,Klebsiella pneumoniae strain EuSCAPE_BE036,Susceptible,0.3,MLST.klebsiella.15,86,Good,5433499,100.0
+573.46077,Klebsiella pneumoniae KSB1_6C,Susceptible,0.11,MLST.klebsiella.20,101,Good,5553863,99.78
+573.26191,Klebsiella pneumoniae strain 5012STDY7312626,Susceptible,0.0,MLST.klebsiella.1605,47,Good,5551017,99.78
+573.21829,Klebsiella pneumoniae strain EuSCAPE_IT152,Resistant,0.3,MLST.klebsiella.512,163,Good,5662281,100.0
+573.24389,Klebsiella pneumoniae strain MUGSI_30,Resistant,0.11,MLST.klebsiella.258,116,Good,5575280,99.78
+573.26225,Klebsiella pneumoniae strain 5012STDY7312692,Susceptible,0.11,MLST.klebsiella.5563,62,Good,5573011,99.78
+573.67148,Klebsiella pneumoniae KP_NORM_URN_2013_95788,Susceptible,0.0,MLST.klebsiella.340,101,Good,5568000,100.0
+573.14241,Klebsiella pneumoniae KPN566ec,Susceptible,0.0,MLST.klebsiella.258,132,Good,5776624,100.0
+573.21273,Klebsiella pneumoniae strain EuSCAPE_TR240,Resistant,0.0,MLST.klebsiella.15,104,Good,5756997,100.0
+573.15487,Klebsiella pneumoniae strain 10315_6#78,Susceptible,0.0,MLST.klebsiella.15,81,Good,5590984,100.0
+573.21498,Klebsiella pneumoniae strain EuSCAPE_DE011,Susceptible,0.3,MLST.klebsiella.3640,94,Good,5511545,100.0
+573.1734,Klebsiella pneumoniae strain KpVA-16,Resistant,3.8,MLST.klebsiella.512,178,Good,5694799,100.0
+573.26294,Klebsiella pneumoniae strain 5012STDY7626413,Susceptible,0.11,MLST.klebsiella.60,25,Good,5170777,99.78
+573.66557,Klebsiella pneumoniae 29105_1#128,Resistant,0.0,MLST.klebsiella.15,95,Good,5599513,100.0
+573.20063,Klebsiella pneumoniae strain AR_0097,Resistant,0.3,MLST.klebsiella.3603,6,Good,5703725,100.0
+573.13002,Klebsiella pneumoniae 102,Susceptible,0.0,MLST.klebsiella.35,225,Good,5482072,100.0
+573.13689,Klebsiella pneumoniae KPN1821ec,Resistant,0.0,MLST.klebsiella.307,133,Good,5425505,100.0
+573.66393,Klebsiella pneumoniae 26994_8#41,Resistant,0.0,MLST.klebsiella.656,71,Good,5488961,100.0
+573.21144,Klebsiella pneumoniae strain EuSCAPE_TR012,Susceptible,0.0,MLST.klebsiella.343,54,Good,5205385,100.0
+573.31069,Klebsiella pneumoniae strain PH28-1,Susceptible,0.11,,95,Good,5301776,98.33
+573.21927,Klebsiella pneumoniae strain EuSCAPE_IT352,Susceptible,0.7,MLST.klebsiella.3661,79,Good,5782034,100.0
+573.24450,Klebsiella pneumoniae strain MUGSI_92,Resistant,0.22,MLST.klebsiella.258,140,Good,5598894,99.78
+573.66222,Klebsiella pneumoniae 26968_5#42,Resistant,0.0,MLST.klebsiella.16,77,Good,5523775,100.0
+573.21226,Klebsiella pneumoniae strain EuSCAPE_CZ026,Susceptible,0.0,MLST.klebsiella.11,65,Good,5566255,100.0
+573.15523,Klebsiella pneumoniae strain INF092,Susceptible,0.0,MLST.klebsiella.2415,173,Good,5521676,100.0
+573.30015,Klebsiella pneumoniae strain Kpngiani7132543,Resistant,0.0,MLST.klebsiella.512,74,Good,5531772,99.78
+573.12783,Klebsiella pneumoniae strain AR_0107,Resistant,0.7,MLST.klebsiella.1161,3,Good,5658318,100.0
+573.21699,Klebsiella pneumoniae strain EuSCAPE_ME009,Susceptible,0.0,MLST.klebsiella.29,70,Good,5841237,100.0
+573.66391,Klebsiella pneumoniae 26994_8#38,Resistant,0.0,MLST.klebsiella.656,78,Good,5490977,100.0
+573.29911,Klebsiella pneumoniae strain Kpngiani7132595,Resistant,0.0,MLST.klebsiella.512,93,Good,5631647,99.78
+573.65889,Klebsiella pneumoniae 1D-199,Susceptible,0.0,MLST.klebsiella.45,64,Good,5286374,100.0
+573.20532,Klebsiella pneumoniae strain EuSCAPE_GR146,Resistant,0.0,MLST.klebsiella.258,256,Good,5718669,100.0
+573.65911,Klebsiella pneumoniae JBAJAAJ-19-0066,Susceptible,0.1,MLST.klebsiella.45,44,Good,5317342,100.0
+573.13808,Klebsiella pneumoniae KPN196ec,Resistant,0.0,MLST.klebsiella.258,154,Good,5530943,100.0
+573.14253,Klebsiella pneumoniae KPN579ec,Susceptible,0.0,MLST.klebsiella.307,91,Good,5479591,100.0
+573.21916,Klebsiella pneumoniae strain EuSCAPE_IT333,Resistant,0.0,MLST.klebsiella.512,114,Good,5672359,100.0
+573.15574,Klebsiella pneumoniae strain KSB2_7A,Susceptible,0.0,MLST.klebsiella.3692,45,Good,5214203,100.0
+573.26173,Klebsiella pneumoniae strain 5012STDY7312612,Susceptible,0.0,MLST.klebsiella.5083,16,Good,5208028,99.78
+573.67134,Klebsiella pneumoniae KP_NORM_URN_2012_81479,Susceptible,0.0,MLST.klebsiella.45,80,Good,5535151,100.0
+573.13967,Klebsiella pneumoniae KPN220ec,Susceptible,0.3,MLST.klebsiella.1823,98,Good,5422918,99.7
+573.14228,Klebsiella pneumoniae KPN547ec,Resistant,0.0,MLST.klebsiella.258,130,Good,5464773,99.7
+573.13110,Klebsiella pneumoniae KPN1106ec,Resistant,0.0,MLST.klebsiella.258,148,Good,5511305,100.0
+573.24425,Klebsiella pneumoniae strain MUGSI_63,Resistant,0.11,MLST.klebsiella.258,124,Good,5341247,99.78
+573.13145,Klebsiella pneumoniae KPN1147ec,Resistant,0.0,MLST.klebsiella.258,128,Good,5571440,100.0
+573.66739,Klebsiella pneumoniae KP_NORM_BLD_117503,Susceptible,0.1,MLST.klebsiella.643,121,Good,5528817,100.0
+573.66340,Klebsiella pneumoniae 26994_6#165,Resistant,0.0,MLST.klebsiella.11,114,Good,5801618,100.0
+573.24364,Klebsiella pneumoniae strain MUGSI_160,Resistant,0.55,MLST.klebsiella.258,147,Good,5779998,99.78
+573.66152,Klebsiella pneumoniae ERR2109180,Susceptible,0.2,MLST.klebsiella.14,66,Good,5510433,100.0
+573.13151,Klebsiella pneumoniae KPN1153ec,Susceptible,0.0,MLST.klebsiella.307,88,Good,5377835,100.0
+573.46839,Klebsiella pneumoniae KP-14442FI,Resistant,0.0,MLST.klebsiella.147,86,Good,5834413,99.78
+573.66347,Klebsiella pneumoniae 26994_6#181,Resistant,0.0,MLST.klebsiella.15,99,Good,5600845,100.0
+573.66498,Klebsiella pneumoniae 27261_8#154,Resistant,0.0,MLST.klebsiella.15,87,Good,5604140,100.0
+573.13751,Klebsiella pneumoniae KPN188ec,Resistant,0.0,MLST.klebsiella.307,102,Good,5499558,100.0
+573.20483,Klebsiella pneumoniae strain EuSCAPE_ES119,Susceptible,0.0,MLST.klebsiella.15,96,Good,5522143,100.0
+573.21416,Klebsiella pneumoniae strain EuSCAPE_CZ031,Susceptible,0.0,MLST.klebsiella.17,121,Good,5514514,99.7
+573.46371,Klebsiella pneumoniae CX47,Resistant,0.0,MLST.klebsiella.11,185,Good,5699268,99.78
+573.29938,Klebsiella pneumoniae strain Kpngiani7132501,Resistant,0.55,MLST.klebsiella.45,150,Good,5807666,99.78
+573.13590,Klebsiella pneumoniae KPN1687ec,Susceptible,0.0,MLST.klebsiella.2975,69,Good,5346321,100.0
+573.14335,Klebsiella pneumoniae KPN708ec,Susceptible,0.3,MLST.klebsiella.15,96,Good,5558107,100.0
+573.21586,Klebsiella pneumoniae strain EuSCAPE_DE084,Susceptible,0.0,MLST.klebsiella.37,67,Good,5267385,100.0
+573.66925,Klebsiella pneumoniae KP_NORM_BLD_2014_104302,Susceptible,0.0,MLST.klebsiella.14,67,Good,5453696,100.0
+573.66116,Klebsiella pneumoniae ERR1815069,Resistant,0.0,MLST.klebsiella.258,159,Good,5693200,100.0
+573.24354,Klebsiella pneumoniae strain MUGSI_142,Resistant,0.0,MLST.klebsiella.34,168,Good,5311738,99.78
+573.21057,Klebsiella pneumoniae strain EuSCAPE_BE025,Susceptible,0.0,MLST.klebsiella.15,145,Good,5616131,100.0
+573.66564,Klebsiella pneumoniae 29339_1#51,Resistant,0.0,MLST.klebsiella.11,111,Good,5800270,100.0
+573.67080,Klebsiella pneumoniae KP_NORM_BLD_62770,Susceptible,0.0,MLST.klebsiella.1189,44,Good,5145628,100.0
+573.67336,Klebsiella pneumoniae ERR7221348,Resistant,0.2,MLST.klebsiella.133,81,Good,5623839,100.0
+573.15448,Klebsiella pneumoniae strain 10315_6#3,Resistant,0.0,MLST.klebsiella.15,113,Good,5871799,100.0
+573.21460,Klebsiella pneumoniae strain EuSCAPE_PL048,Resistant,0.0,MLST.klebsiella.11,79,Good,5671474,100.0
+573.21956,Klebsiella pneumoniae strain EuSCAPE_ES073,Resistant,0.0,MLST.klebsiella.11,84,Good,5591211,100.0
+573.2026,Klebsiella pneumoniae strain 143500532,Resistant,0.0,MLST.klebsiella.258,95,Good,5645972,100.0
+573.13479,Klebsiella pneumoniae KPN154ec,Susceptible,0.3,MLST.klebsiella.16,81,Good,5518481,100.0
+573.15550,Klebsiella pneumoniae strain KSB1_3E,Susceptible,0.0,MLST.Klebsiella_pneumoniae.10,188,Good,5604200,100.0
+573.67071,Klebsiella pneumoniae KP_NORM_BLD_62504,Susceptible,0.0,MLST.klebsiella.359,154,Good,5320623,100.0
+573.46381,Klebsiella pneumoniae CX107,Resistant,0.0,MLST.klebsiella.11,157,Good,5533649,99.78
+573.66764,Klebsiella pneumoniae KP_NORM_BLD_12945,Susceptible,0.1,MLST.klebsiella.2599,125,Good,5528317,100.0
+573.67360,Klebsiella pneumoniae 123238,Susceptible,0.0,MLST.klebsiella.16,115,Good,5592542,100.0
+573.21589,Klebsiella pneumoniae strain EuSCAPE_DE010,Resistant,0.0,MLST.klebsiella.101,174,Good,5780919,100.0
+573.13552,Klebsiella pneumoniae KPN1643ec,Resistant,0.0,MLST.klebsiella.258,101,Good,5323037,100.0
+573.67038,Klebsiella pneumoniae KP_NORM_BLD_61805,Susceptible,0.0,MLST.klebsiella.198,65,Good,5305411,100.0
+573.66834,Klebsiella pneumoniae KP_NORM_BLD_1687,Susceptible,0.0,MLST.klebsiella.474,52,Good,5332050,100.0
+573.23198,Klebsiella pneumoniae strain KP_208,Susceptible,0.11,MLST.klebsiella.337,109,Good,5484769,99.78
+573.26183,Klebsiella pneumoniae strain 5012STDY7312618,Susceptible,0.0,MLST.klebsiella.1605,52,Good,5549382,99.78
+573.67244,Klebsiella pneumoniae ERR7221231,Resistant,0.0,MLST.klebsiella.512,81,Good,5534511,100.0
+573.24295,Klebsiella pneumoniae strain 396,Susceptible,0.11,MLST.klebsiella.628,73,Good,5433310,99.78
+573.14778,Klebsiella pneumoniae strain 54,Resistant,0.0,MLST.klebsiella.512,175,Good,5824619,100.0
+573.5777,Klebsiella pneumoniae strain 14_GR_14,Resistant,0.0,MLST.klebsiella.258,134,Good,5657496,99.7
+573.21822,Klebsiella pneumoniae strain EuSCAPE_IT149,Susceptible,0.3,MLST.klebsiella.23,49,Good,5603340,100.0
+573.26122,Klebsiella pneumoniae strain 5012STDY7312577,Susceptible,0.11,MLST.klebsiella.29,46,Good,5344303,99.78
+573.13812,Klebsiella pneumoniae KPN1976ec,Resistant,0.3,MLST.klebsiella.307,127,Good,5574738,100.0
+573.67069,Klebsiella pneumoniae KP_NORM_BLD_625,Susceptible,0.0,MLST.klebsiella.359,140,Good,5217211,100.0
+573.21267,Klebsiella pneumoniae strain EuSCAPE_TR230,Resistant,0.0,MLST.klebsiella.101,104,Good,5632830,100.0
+573.20788,Klebsiella pneumoniae strain EuSCAPE_RO056,Susceptible,0.0,MLST.klebsiella.101,131,Good,5760258,100.0
+573.67248,Klebsiella pneumoniae ERR7221230,Resistant,0.0,MLST.klebsiella.258,106,Good,5618244,100.0
+573.15364,Klebsiella pneumoniae strain INF278,Resistant,0.0,MLST.klebsiella.340,7,Good,5731216,99.7
+573.46096,Klebsiella pneumoniae KSB1_1D,Susceptible,0.0,MLST.klebsiella.45,113,Good,5590492,99.78
+573.67311,Klebsiella pneumoniae ERR7221315,Susceptible,0.3,MLST.klebsiella.392,66,Good,5550985,100.0

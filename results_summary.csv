@@ -1,0 +1,7 @@
+approach,split,sensitivity,specificity,accuracy
+Rule 1: any carbapenem element,none,1.0,0.71,0.855
+Rule 2: carbapenemase gene only,none,0.92,0.92,0.92
+Gene-variant model,random,0.86,0.87,0.865
+Gene-variant model,lineage,0.74,0.92,0.83
+Mechanism model,random,0.93,0.94,0.935
+Mechanism model,lineage,0.92,0.94,0.93
